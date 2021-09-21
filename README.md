@@ -1,5 +1,5 @@
-<h1 align="center">Hello there... 👋 </h1>
-<h4 align="center">My name is <b><i> Retin P Kumar </i></b> and I am an aspiring data scientist from India.<h4>
+<h1 align="center">Hello there... 👋 
+I am Retin P Kumar</h1>
 
 
 <h3 align="center">Connect with me here:</h3>
