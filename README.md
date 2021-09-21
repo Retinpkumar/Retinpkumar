@@ -33,3 +33,13 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=retinpkumar&show_icons=true&locale=en&layout=compact" alt="retinpkumar" /></p>
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Python                   3 hrs 29 mins       █████████████░░░░░░░░░░░░   53.55% 
+YAML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+C++                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
+
+
