@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 </h1> 
 <h3>Thanks for dropping by. Hope my profile interests you.</h3>
-<h4 align="center">I am an aspiring data scientist. I like to explore data and find hidden insights...
-  and of course, build predictive models out of them.</h4>
+<h4 align="center">I am an aspiring data scientist. I like to explore and analyse data and also find hidden insights within them...
+  and of course, build machine learning models out of them.</h4>
 
 
 - 🌱 I’m currently learning --> **Machine Learning with Python**
