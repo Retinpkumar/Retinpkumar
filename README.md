@@ -34,5 +34,6 @@
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="400" height = "400"><img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="400" height = "400">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="400">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="400" >
 </p>
