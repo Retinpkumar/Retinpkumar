@@ -31,7 +31,7 @@
 <img src="https://lh3.googleusercontent.com/proxy/XYdF0H60LZa1v9yt6eucWm5cJ-QJGpRIJmO9f3qTTHyj1UtqF-rw6qFai4aAbg1Q0brcpnsLX7jDY6xA_P1OqxmT0GK8_cWTF6dlwmiuEEMG6_2D9rU8TgRRdpSh4_mQ6QP-" width="30" height="30" alt="Selenium"></img>
 <img src="https://media.vlpt.us/images/kmnkit/post/93f441d9-61bf-42bd-9977-75448cee3146/beautifulsoup.png" width="30" height="30" alt="Beautifulsoup"></img>
 <img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" width="30" height="30" alt="Flask"></img>
-<img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="30" height="30" alt="Heroku"></img>
+
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="30" height="30" alt="Git"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVHxDxpFx6R4N6v5Z2SCRkUzqVlFRKmak3BwW67Y45raKeMS5OEGi74xkwOceRRf52Qc&usqp=CAU" width="30" height="30" alt="Bash"></img>
 
@@ -40,6 +40,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiacsoXajIMdRDuY-AECAZk-zoA9Bi2wHQjV3H3XVxAP0F3P-BCqd9BgA51rGG619whs&usqp=CAU" width="30" height="30" alt="MongoDB"></img>
 <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Priya%20Ganesan/2020/Cassandra-logo-1024x1024_0.png" width="30" height="30" alt="Cassandra"></img>
 
+<img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="30" height="30" alt="Heroku"></img>
+<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="30" height="30" alt="Google Cloud"></img>
+<img src="https://toppng.com//public/uploads/preview/amazon-web-services-vector-logo-115739770052fpircxbum.png" width="30" height="30" alt="Amazon AWS"></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU" width="30" height="30" alt="Microsoft Azure"></img>
 
 
 ## ```📖 Profile Summary``` 
