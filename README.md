@@ -41,7 +41,7 @@
 <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Priya%20Ganesan/2020/Cassandra-logo-1024x1024_0.png" width="30" height="30" alt="Cassandra"></img>
 
 <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="30" height="30" alt="Heroku"></img>
-<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="30" height="30" alt="Google Cloud"></img>
+<img src="https://idcloudace.files.wordpress.com/2019/11/cloud-lockup-logo.png?resize=200%2C200" width="30" height="30" alt="Google Cloud"></img>
 <img src="https://toppng.com//public/uploads/preview/amazon-web-services-vector-logo-115739770052fpircxbum.png" width="30" height="30" alt="Amazon AWS"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU" width="30" height="30" alt="Microsoft Azure"></img>
 
