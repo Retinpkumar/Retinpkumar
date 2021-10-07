@@ -9,9 +9,6 @@
 
 <img align="right" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"></img>
 
-## ``` 👨‍💻 Find my projects here``` 
-&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Retinpkumar](https://github.com/Retinpkumar)
-
 ## ```📫 Contact me at``` 
 &nbsp;&nbsp;&nbsp;&nbsp; **retinpkumar@gmail.com**
 
