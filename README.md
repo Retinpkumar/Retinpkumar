@@ -2,7 +2,7 @@
 <i><p align="justify">I am an aspiring data scientist. I like to explore and analyse data and also find hidden insights within them...
   and of course, build machine learning models out of them.</p></i>
 
-<h3 align="left"> Something about myself: </h3>
+<h3 align="left"> About myself: </h3>
 
 - 🌱 I’m currently learning --> **Machine Learning with Python**
 
