@@ -2,10 +2,11 @@
 
 <i><p align="justify">I am an aspiring data scientist. I like to analyse various datasets to find hidden patterns and insights within them. And to utilize my findings, I build and deploy various machine learning models.</p></i>
 
-## ```🌱 I’m currently learning```
+## ```🌱 I’m currently learning``` 
   - Machine Learning
   - Tensorflow
   - Deep Learning
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></img>
 
 ## ``` 👨‍💻 Find my projects here``` 
 &nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Retinpkumar](https://github.com/Retinpkumar)
