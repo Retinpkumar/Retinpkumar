@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **retinpkumar@gmail.com**
 
 ## ```🧑‍🤝‍🧑 Connect with me at:``` 
-&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retinpkumar" height="20" width="20" /></a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retinpkumar" height="20" width="20" /></a> &nbsp;&nbsp;&nbsp; <a href="https://kaggle.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="retinpkumar" height="20" width="20" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retinpkumar" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retinpkumar" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp; <a href="https://kaggle.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="retinpkumar" height="20" width="20" /></a>
 
 ## ```🖥️ Tech Stack```
 
