@@ -6,7 +6,8 @@
   - Machine Learning
   - Tensorflow
   - Deep Learning
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></img>
+
+<img align="right" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"></img>
 
 ## ``` 👨‍💻 Find my projects here``` 
 &nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Retinpkumar](https://github.com/Retinpkumar)
