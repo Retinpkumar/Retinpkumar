@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋...</h2> <h4 align="center"> Thanks for dropping by. Hope my profile interests you.</h4>
+<h2 align="center">Hello there 👋:smile: ...</h2> <h4 align="center"> Thanks for dropping by. Hope my profile interests you.</h4>
 
 <i><p align="justify">I am an aspiring data scientist. I like to analyse various datasets to find hidden patterns and insights within them. And to utilize my findings, I build and deploy various machine learning models.</p></i>
 
@@ -7,7 +7,7 @@
   - Tensorflow
   - Deep Learning
 
-<img align="right" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"></img>
+<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"></img>
 
 ## ```📫 Contact me at``` 
 &nbsp;&nbsp;&nbsp;&nbsp; **retinpkumar@gmail.com**
