@@ -4,9 +4,9 @@
 
 <table style="width:100%">
   <tr>
-    <th align="center"> <h2> 📫 Contact me</h2> </th>
-    <th align="center"> <h2> 🧑‍🤝‍🧑 Connect with me</h2> </th>
-    <th align="center"> <h2> 🖥️ Tech skills </h2> </th>
+    <th align="center"> <h3> 📫 Contact me</h3> </th>
+    <th align="center"> <h3> 🧑‍🤝‍🧑 Connect with me</h3> </th>
+    <th align="center"> <h3> 🖥️ Tech skills </h3> </th>
   </tr>
   <tr>
     <td> retinpkumar@gmail.com </td>
