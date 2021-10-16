@@ -1,6 +1,7 @@
 <h2 align="center">Hello there 👋:smile: ...</h2> <h4 align="center"> Thanks for dropping by. Hope my profile interests you.</h4>
 
 <i><p align="justify">I am an aspiring data scientist. I like to analyse various datasets to find hidden patterns and insights within them. And to utilize my findings, I build and deploy various machine learning models.</p></i>
+<br>
 
 <table style="width:100%">
   <tr>
@@ -16,8 +17,9 @@
     </td>
   
   </tr>
-  
 </table>
+
+<br>
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="400">
