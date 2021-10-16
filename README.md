@@ -2,51 +2,22 @@
 
 <i><p align="justify">I am an aspiring data scientist. I like to analyse various datasets to find hidden patterns and insights within them. And to utilize my findings, I build and deploy various machine learning models.</p></i>
 
-## ```🌱 I’m currently learning``` 
-  - Machine Learning
-  - Tensorflow
-  - Deep Learning
-
-<img align="right" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"></img>
-
-## ```📫 Contact me at``` 
-&nbsp;&nbsp;&nbsp;&nbsp; **retinpkumar@gmail.com**
-
-## ```🧑‍🤝‍🧑 Connect with me at:``` 
-&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retinpkumar" height="20" width="20" /></a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retinpkumar" height="20" width="20" /></a> &nbsp;&nbsp;&nbsp; <a href="https://kaggle.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="retinpkumar" height="20" width="20" /></a>
-
-## ```🖥️ Tech Stack```
-
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" width="30" height="30" alt="Python"></img>
-<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="30" height="30" alt="Numpy"></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPWgQP0ECHWz1mHzRjmWW0noU63ZMG-qjIq46yP3ODyQSuX4EuM2NFy7w3H0VFS0OIf0&usqp=CAU" width="30" height="30" alt="Pandas"></img>
-<img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" width="30" height="30" alt="Matplotlib"></img>
-<img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="30" height="30" alt="Seaborn"></img>
-<img src="https://cdn-images-1.medium.com/max/200/1*4s68xZ7SUymwwDBn3V97hQ@2x.png" width="30" height="30" alt="Plotly"></img>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGHi-nUeScNBQFc5RotkrgDqKMRhitXc6KMzM35nLHVoCEJj1nfvdT0QNuRWIBn_7Emw&usqp=CAU" width="30" height="30" alt="Sklearn"></img>
-<img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" width="30" height="30" alt="Statsmodels"></img>
-<img src="https://static.javatpoint.com/tutorial/tensorflow/images/tensorflow-tutorial.png" width="30" height="30" alt="Tensorflow"></img>
-
-<img src="https://lh3.googleusercontent.com/proxy/XYdF0H60LZa1v9yt6eucWm5cJ-QJGpRIJmO9f3qTTHyj1UtqF-rw6qFai4aAbg1Q0brcpnsLX7jDY6xA_P1OqxmT0GK8_cWTF6dlwmiuEEMG6_2D9rU8TgRRdpSh4_mQ6QP-" width="30" height="30" alt="Selenium"></img>
-<img src="https://media.vlpt.us/images/kmnkit/post/93f441d9-61bf-42bd-9977-75448cee3146/beautifulsoup.png" width="30" height="30" alt="Beautifulsoup"></img>
-<img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" width="30" height="30" alt="Flask"></img>
-
-<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="30" height="30" alt="Git"></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVHxDxpFx6R4N6v5Z2SCRkUzqVlFRKmak3BwW67Y45raKeMS5OEGi74xkwOceRRf52Qc&usqp=CAU" width="30" height="30" alt="Bash"></img>
-
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" alt="MySQL"></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtTg45lw4evHhHRt_YYHysuF_f2pRylhJ3JJexkrHooNTRP7QOgXX-1ndvGE0gI6kjUc&usqp=CAU" width="30" height="30" alt="SQLite"></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiacsoXajIMdRDuY-AECAZk-zoA9Bi2wHQjV3H3XVxAP0F3P-BCqd9BgA51rGG619whs&usqp=CAU" width="30" height="30" alt="MongoDB"></img>
-<img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Priya%20Ganesan/2020/Cassandra-logo-1024x1024_0.png" width="30" height="30" alt="Cassandra"></img>
-
-<img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="30" height="30" alt="Heroku"></img>
-<img src="https://idcloudace.files.wordpress.com/2019/11/cloud-lockup-logo.png?resize=200%2C200" width="30" height="30" alt="Google Cloud"></img>
-<img src="https://toppng.com//public/uploads/preview/amazon-web-services-vector-logo-115739770052fpircxbum.png" width="30" height="30" alt="Amazon AWS"></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU" width="30" height="30" alt="Microsoft Azure"></img>
-
-
-## ```📖 Profile Summary``` 
+<table style="width:100%">
+  <tr>
+    <th align="center"> 📫 Contact me </th>
+    <th align="center"> 🧑‍🤝‍🧑 Connect with me </th>
+    <th align="center"> 🖥️ Tech skills </th>
+  </tr>
+  <tr>
+    <td> retinpkumar@gmail.com </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retinpkumar" height="30" width="30" /></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retinpkumar" height="30" width="30" /></a> &nbsp;&nbsp; <a href="https://kaggle.com/retinpkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="retinpkumar" height="30" width="30" /></a> </td>
+    <td>
+      <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    </td>
+  
+  </tr>
+  
+</table>
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="400">
