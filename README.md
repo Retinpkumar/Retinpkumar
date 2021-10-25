@@ -22,6 +22,6 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="400">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="400" >
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="350">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="350" >
 </p>
