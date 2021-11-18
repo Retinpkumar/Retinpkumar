@@ -17,7 +17,7 @@
 
 <div>
   <h2> 📄 Articles and Blog posts </h2>
-  <a href="https://medium.com/@retinpkumar/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47">How to build a simple web scraper using BeautifulSoup</a>
+  How to build a simple web scraper using BeautifulSoup <a href="https://medium.com/@retinpkumar/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47">Medium</a> <a href="https://inblog.in/How-to-build-a-simple-Webscraper-using-Beautifulsoup-OWfzH6tRhC">InBlog</a>
     
 </div>
 <hr>
