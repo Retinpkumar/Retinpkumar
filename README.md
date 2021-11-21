@@ -30,6 +30,13 @@
 </div>
 
 <hr>
+
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="350">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="350" >
+</div>
+
+<!--
 <div>
   <h2> Kaggle Profile </h2>
   
@@ -37,12 +44,6 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/discussion/light)
-  
- </div>
-
-<hr>
-
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="350">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=retinpkumar&show_icons=true&locale=en" alt="retinpkumar" / width="350" >
 </div>
+
+-->
