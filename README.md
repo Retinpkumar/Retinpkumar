@@ -30,6 +30,17 @@
 </div>
 
 <hr>
+<div>
+  <h2> Kaggle Profile </h2>
+  
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/retinpkumar/discussion/light)
+  
+ </div>
+
+<hr>
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=retinpkumar&" alt="retinpkumar" / width="350">
