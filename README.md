@@ -17,7 +17,8 @@
 
 <div>
   <h2> 📄 Articles and Blog posts </h2>
-  How to build a simple web scraper using BeautifulSoup [<a href="https://medium.com/geekculture/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47">Medium</a>,  <a href="https://inblog.in/How-to-build-a-simple-Webscraper-using-Beautifulsoup-OWfzH6tRhC">InBlog</a>]
+  <li><a href="https://medium.com/geekculture/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47">How to build a simple web scraper using BeautifulSoup</a></li>
+  <li><a href="https://retinpkumar.medium.com/how-to-organize-a-data-science-project-directory-aa4d7c9f6156"> How to Organize your Data Science Project files</a></li>
     
 </div>
 <hr>
