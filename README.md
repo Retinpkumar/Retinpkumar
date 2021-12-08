@@ -20,6 +20,7 @@
   <li><a href="https://medium.com/geekculture/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47">How to build a simple web scraper using BeautifulSoup</a></li>
   <li><a href="https://retinpkumar.medium.com/how-to-organize-a-data-science-project-directory-aa4d7c9f6156"> How to Organize your Data Science Project files</a></li>
   <li><a href="https://retinpkumar.medium.com/lets-build-and-deploy-your-first-machine-learning-app-fa350ec6b5cf"> Let’s Build and Deploy Your First Machine Learning App </a></li>
+  <li><a href="https://retinpkumar.medium.com/create-custom-datasets-within-seconds-53abf103bf8b"> Here’s How You Can Create Custom Datasets in a Second </a></li>
     
 </div>
 <hr>
