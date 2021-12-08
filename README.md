@@ -1,9 +1,6 @@
 <h2 align="center">Hellooo... 👋:smile:</h2> <p align="center"> <i>Thanks for dropping by. Hope my profile interests you.</i></p>
 
-<p align="justify">I am an aspiring data scientist and a machine learning enthusiast.</p> 
-<p> Though I have a technical background, my interest are aligned slightly towards capital markets and financial instruments. Here, in my profile, you can find repos on my personal projects, topics that I study, and assignments and course projects. </p>
-  <p>Currently im learning Machine Learning algorithms, but going forward, I would like to explore Time Series Analysis, Computer Vision and Natural Language Processing.
-  </p>
+<p align="justify">I am an aspiring data scientist from India.</p> 
 <br>
     
 <hr>
