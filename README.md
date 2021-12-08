@@ -1,6 +1,7 @@
-<h2 align="center">Hellooo... 👋:smile:</h2> <p align="center"> <i>Thanks for dropping by. Hope my profile interests you.</i></p>
+<h2 align="center">Hellooo... 👋:smile:</h2> <p align="center"> 
 
-<p align="justify">I am Retin, an aspiring data scientist from India. To me, data science is way more than mere numbers and models. I see data science as a means for creating solutions that are close to human thoughts for the problems in our daily lives by understanding human desires. </p>
+<p align="center">I am Retin, an aspiring data scientist from India. </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;To me, data science is way more than mere numbers and models. I see data science as a means for creating solutions that are close to human thoughts for the problems in our daily lives by understanding human desires. </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;We, in every aspect of our lives have been leaving footprints that could be analyzed for obtaining hidden insights which in turn could be used for developing thoughtful business solutions. </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;As an aspiring data scientist, I would like to apply my skills for providing valuable solutions that can maximize the return for every resource spend by the user.</p> 
 <br>
