@@ -1,7 +1,7 @@
 <h2 align="center">Hellooo... 👋:smile:</h2> <p align="center"> 
 
 <p align="center">I am Retin, an aspiring data scientist from India. </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;To me, data science is way more than mere numbers and models. I see data science as a means for creating thoughtful and innovative solutions for our daily lives problems by understanding human desires with the help of data. </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;To me, data science is way more than handling numbers and making statistical models. I see data science as a means for creating innovative solutions for our daily lives problems by understanding human desires with the help of data. </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;We, in every aspect of our lives have been leaving footprints that could be analyzed for obtaining hidden insights which in turn could be used for developing thoughtful business solutions. </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;As an aspiring data scientist, I would like to apply my skills for providing valuable solutions that can maximize the return for every resource spend by the user.</p> 
 <br>
