@@ -8,6 +8,7 @@
 <div>
   <h2> 📄 Articles and Blog posts </h2>
     <p>These are links to some of the articles I've written on medium. </p>
+  <li><a href="https://medium.com/geekculture/implementing-k-nearest-neighbors-from-scratch-in-python-d5eaaf558d49">Implementing K Nearest Neighbors from scratch in Python</a></li>
   <li><a href="https://medium.com/geekculture/i-analyzed-a-data-science-job-salaries-dataset-dca3c24081c0">I Analyzed a Data science Job Salaries Dataset</a></li>
   <li><a href="https://retinpkumar.medium.com/how-to-extract-reddit-posts-for-an-nlp-project-56d121b260b4" target="blank">How to extract Reddit posts using python</a></li>
   <li><a href="https://retinpkumar.medium.com/create-custom-datasets-within-seconds-53abf103bf8b" target="blank"> Here’s How You Can Create Custom Datasets in a Second </a></li>
