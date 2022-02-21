@@ -7,15 +7,11 @@
 
 <div>
   <h2> 📄 Articles and Blog posts </h2>
-    <p>These are links to some of the articles I've written on medium. </p>
-  <li><a href="https://medium.com/geekculture/implementing-k-nearest-neighbors-from-scratch-in-python-d5eaaf558d49">Implementing K Nearest Neighbors from scratch in Python</a></li>
-  <li><a href="https://medium.com/geekculture/i-analyzed-a-data-science-job-salaries-dataset-dca3c24081c0">I Analyzed a Data science Job Salaries Dataset</a></li>
-  <li><a href="https://retinpkumar.medium.com/how-to-extract-reddit-posts-for-an-nlp-project-56d121b260b4" target="blank">How to extract Reddit posts using python</a></li>
-  <li><a href="https://retinpkumar.medium.com/create-custom-datasets-within-seconds-53abf103bf8b" target="blank"> Here’s How You Can Create Custom Datasets in a Second </a></li>
-  <li><a href="https://retinpkumar.medium.com/lets-build-and-deploy-your-first-machine-learning-app-fa350ec6b5cf" target="blank"> Let’s Build and Deploy Your First Machine Learning App </a></li>
-  <li><a href="https://retinpkumar.medium.com/how-to-organize-a-data-science-project-directory-aa4d7c9f6156" target="blank"> How to Organize your Data Science Project files</a></li>
-  <li><a href="https://medium.com/geekculture/how-to-build-a-simple-web-scraper-using-beautifulsoup-2f2f0f97dc47" target="blank">How to build a simple web scraper using BeautifulSoup</a></li>
-  
+    <p>These are the 3 latest articles that I've written on medium. </p>  
+    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/0" alt="Recent Article 0">  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/1" alt="Recent Article 1">  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/2" alt="Recent Article 2"> 
   
   
     
