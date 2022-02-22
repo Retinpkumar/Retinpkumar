@@ -9,7 +9,7 @@
 
 <div>
   <h2> 📄 Articles and Blog posts </h2>
-    <p>These are the 3 latest articles that I've written on medium. </p>  
+    <p>These are my latest articles that I've written on medium. </p>  
     
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/0" alt="Recent Article 0">  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@retinpkumar/1" alt="Recent Article 1">  
