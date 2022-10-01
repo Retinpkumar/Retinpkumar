@@ -1,7 +1,5 @@
 <h2 align="center">Hellooo... 👋:smile:</h2> <p align="center"> 
 
-<p align="center">I am Retin, a Data Scientist from India. </p>
-
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div>
